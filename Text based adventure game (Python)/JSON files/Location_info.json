@@ -1,0 +1,107 @@
+{
+  "Forest": [
+    [
+      {
+        "forest_0x0": "You are in forest1x1"
+      },
+      {
+        "forest_0x1": "You are in forest1x2"
+      },
+      {
+        "forest_0x2": "You are in forest1x3"
+      }
+    ],
+    [
+      {
+        "forest_1x0": "You are in forest2x1"
+      },
+      {
+        "forest_1x1": "You are in forest2x2"
+      },
+      {
+        "forest_1x2": "You are in forest2x3"
+      }
+    ],
+    [
+      {
+        "forest_2x0": "You are in forest3x1"
+      },
+      {
+        "forest_2x1": "You are in forest3x2"
+      },
+      {
+        "forest_2x2": "You are in forest3x3"
+      }
+    ]
+  ],
+  "Mountains": [
+    [
+      {
+        "mountain_0x0":"You are in mountain1x3"
+      },
+      {
+        "mountain_0x1":"You are in mountain1x2"
+      },
+      {
+        "mountain_0x2":"You are in mountain1x1"
+      }
+    ],
+    [
+      {
+        "mountain_1x0":"You are in mountain2x1"
+      },
+      {
+        "mountain_1x1":"You are in mountain2x2"
+      },
+      {
+        "mountain_1x2":"You are in mountain2x3"}
+
+    ],
+    [
+      {
+        "mountain_2x0":"You are in mountain3x1"
+      },
+      {
+        "mountain_2x1":"You are in mountain3x2"
+      },
+      {
+        "mountain_2x2":"You are in mountain3x3"
+      }
+    ]
+  ],
+  "Graveyard": [
+    [
+      {
+        "graveyard_0x1":"You are in graveyard1x1"
+      },
+      {
+        "graveyard_0x1":"You are in graveyard1x2"
+      },
+      {
+        "graveyard_0x2":"You are in graveyard1x3"
+      }
+    ],
+    [
+      {
+        "graveyard_1x0": "You are in graveyard2x1"
+      },
+      {
+        "graveyard_1x1":"You are in graveyard2x2"
+      },
+      {
+        "graveyard_1x2":"You are in graveyard2x3"
+      }
+    ],
+    [
+      {
+        "graveyard_2x0":"You are in graveyard3x1"
+      },
+      {
+        "graveyard_2x1":"You are in graveyard3x2"
+      },
+      {
+        "graveyard_2x2":"You are in graveyard3x3"
+      }
+    ]
+  ]
+}
